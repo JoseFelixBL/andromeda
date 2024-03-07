@@ -1,2 +1,2 @@
 # andromeda
-Siguiendo el curso Ultimate Git - Githhub
+Hola mundo! este es mi primer cambio
